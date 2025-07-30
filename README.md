@@ -56,10 +56,10 @@
 ###
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/mahmoud-elbanna-149490320)" width="52" height="40" alt="linkedin logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg](https://www.facebook.com/profile.php?id=100087554350754&ref=ig_profile_ac)" width="52" height="40" alt="facebook logo"  />
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://www.instagram.com/itzm___banna?igsh=cTlvYnYzN3FvOTk2)" width="52" height="40" alt="instagram logo"  />
-  
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile](https://www.linkedin.com/in/mahmoud-elbanna-149490320)-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile](https://www.facebook.com/profile.php?id=100087554350754&ref=ig_profile_ac)-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile](https://www.instagram.com/itzm___banna?igsh=cTlvYnYzN3FvOTk2)-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
 ###
 
